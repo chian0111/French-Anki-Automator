@@ -1,0 +1,6 @@
+config.json
+portfolio.json
+*.pdf
+*.html
+portfolio_log*
+.portfolio_last_run
